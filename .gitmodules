@@ -1,0 +1,9 @@
+[submodule "source/simbad-client"]
+	path = source/simbad-client
+	url = https://github.com/JakubSokolowski/simbad-client.git
+[submodule "source/simbad-host-link"]
+	path = source/simbad-host-link
+	url = https://github.com/JakubSokolowski/simbad-host-link.git
+[submodule "source/simbad-pipeline-server"]
+	path = source/simbad-pipeline-server
+	url = https://github.com/JakubSokolowski/simbad-pipeline-server.git
