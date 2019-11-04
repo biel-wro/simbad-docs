@@ -2,6 +2,7 @@
 
 This is shared documentation repository for readthedocs builds.
 Live documentation: [link](https://simbad-docs.readthedocs.io)
+Readthedocs builds: [link](https://readthedocs.org/projects/simbad-docs/builds/)
 
 ### Triggering documentation build
 Builds are triggered automatically after new master commits. To update documentation for components of Simbad project
